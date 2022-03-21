@@ -1,0 +1,22 @@
+{
+  "name": "synchronous-then",
+  "version": "0.0.1",
+  "description": "Convert nested method calls to chaining method calls without class or wrapper functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzengshinfu/synchronous-then.git"
+  },
+  "author": "tzengshinfu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzengshinfu/synchronous-then/issues"
+  },
+  "homepage": "https://github.com/tzengshinfu/synchronous-then#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
