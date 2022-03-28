@@ -1,3 +1,8 @@
+# ⛔️ DEPRECATED
+1. It's generally recommended not to modify the prototypes of built-in objects.  
+2. Add `Then` function to the prototype will make the script never terminate.  
+3. The `Lodash` library works fine with custom function.  
+
 # synchronous-then
 
 Convert nested method calls to chaining method calls without class or wrapper functions.  
